@@ -17,7 +17,7 @@
 
 ## Ekran Görüntüsü 📸
 
-![MusicKing](https://github.com/user-attachments/assets/your_image_link_here)
+![MusicKing](![image](https://github.com/user-attachments/assets/f31114f6-908e-42c6-9442-659b2c7b1d89))
 
 ## Gereksinimler 🔧
 
@@ -26,17 +26,11 @@
 
 ## Kurulum ve Çalıştırma 🚀
 
-1. Projeyi [GitHub'dan indirin](https://github.com/kullanıcı-adı/proje-adı).
+1. Projeyi [GitHub'dan indirin](https://github.com/rruzgaae/Music-King).
 2. musicking.exe'yi açın.
 
 ## Katkıda Bulunun 🤝
 
 Katkılarınızı bekliyoruz! Hataları düzeltmek, yeni özellikler eklemek veya iyileştirmeler yapmak için bir `pull request` oluşturabilirsiniz.
 
-## Lisans 📄
-
-Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına göz atabilirsiniz.
-
----
-
-MusicKing ile müziğin keyfini çıkarın! 🎉
+Not: Bu program Burger King için yapılmıştır
