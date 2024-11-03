@@ -17,7 +17,8 @@
 
 ## Ekran Görüntüsü 📸
 
-![MusicKing](![image](https://github.com/user-attachments/assets/f31114f6-908e-42c6-9442-659b2c7b1d89))
+![image](https://github.com/user-attachments/assets/3f2367c1-6bd2-4984-8e35-59d5dd8404b7)
+
 
 ## Gereksinimler 🔧
 
